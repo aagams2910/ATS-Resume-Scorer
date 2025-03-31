@@ -1,0 +1,8 @@
+streamlit
+pdfminer.six
+python-docx
+google-generativeai
+python-dotenv
+scikit-learn
+pandas
+numpy
