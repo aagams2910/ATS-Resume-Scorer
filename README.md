@@ -31,7 +31,7 @@ An AI-powered tool that analyzes resumes against job descriptions to improve you
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ATS-Resume-Scorer.git
+git clone https://github.com/aagams2910/ATS-Resume-Scorer.git
 cd ATS-Resume-Scorer
 ```
 
